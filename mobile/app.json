@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Urban Risk Intelligence",
+    "slug": "urban-risk-intelligence",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "br.com.fiap.urbanrisk"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
